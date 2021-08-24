@@ -1,5 +1,5 @@
 # arweave-python-client
-This client allows you to integrate your python apps with the Arweave network allowing you to got wallet operations and transactions
+This client allows you to integrate your python apps with the Arweave network allowing you to get wallet operations and transactions
 
 ## Installing
 To use the library simply install it:
